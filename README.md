@@ -30,5 +30,6 @@ M-bias plot:
 epiblast:  
 
 ICM:   
-
+![ ](https://github.com/IlonaGA/hse_hw1_meth/blob/main/images/ICM1.png)
+![ ](https://github.com/IlonaGA/hse_hw1_meth/blob/main/images/ICM2.png)
 
