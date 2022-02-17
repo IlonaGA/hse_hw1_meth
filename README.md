@@ -31,8 +31,7 @@ Cводная таблица ридов, закартированных на у�
 *epiblast:*  
 
 ICM:   
-![ ](https://github.com/IlonaGA/hse_hw1_meth/blob/main/images/ICM1.png)
-![ ](https://github.com/IlonaGA/hse_hw1_meth/blob/main/images/ICM2.png)
+![ ](https://github.com/IlonaGA/hse_hw1_meth/blob/main/images/ICM1.png) ![ ](https://github.com/IlonaGA/hse_hw1_meth/blob/main/images/ICM2.png)
 
 
 ### Гистограммы распределения метилирования цитозинов по хромосоме (по X процент метилированных цитозинов, по Y - частота):  
