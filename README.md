@@ -1,6 +1,6 @@
 # hse_hw1_meth
 [Ссылка на Google Colab](https://colab.research.google.com/drive/1-dXmptBlP0_1-4jG2QZhg2dha5yFg3Vt#scrollTo=f-eP1RzVux4x)  
-
+https://colab.research.google.com/drive/1-dXmptBlP0_1-4jG2QZhg2dha5yFg3Vt?usp=sharing
 ### FastQC report
 Отчет html находится в директории reports. Для получения отчета был скачен запуск с ресурса European Nucleotide Archive, а затем запущен FastQC. 
 Особенности:   
