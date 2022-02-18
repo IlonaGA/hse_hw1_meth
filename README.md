@@ -31,7 +31,10 @@ Cводная таблица ридов, закартированных на у�
 **epiblast:**  
 
 **ICM:**   
-![ ](https://github.com/IlonaGA/hse_hw1_meth/blob/main/images/ICM1.png)![ ](https://github.com/IlonaGA/hse_hw1_meth/blob/main/images/ICM2.png)
+<p float="left">
+![ ](https://github.com/IlonaGA/hse_hw1_meth/blob/main/images/ICM1.png)
+![ ](https://github.com/IlonaGA/hse_hw1_meth/blob/main/images/ICM2.png)
+</p>
 
 На графиках показана доля метилирования на разных позициях хромосомы. Легко видеть, что наиболее метилированным оказался образец Epiblast, затем идет 8cell, затем ICM (очень слабо метилированный образец).  
 
