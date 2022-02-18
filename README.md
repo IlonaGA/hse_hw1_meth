@@ -46,7 +46,8 @@ Cводная таблица ридов, закартированных на у�
 ### Гистограммы распределения метилирования цитозинов по хромосоме (по X процент метилированных цитозинов, по Y - частота):  
 | 1 | 2 | 3 |
 | ------------- | ------------- | ------------- | 
-| ![ ](https://github.com/IlonaGA/hse_hw1_meth/blob/main/images/hist_8cell.png) | ![ ](https://github.com/IlonaGA/hse_hw1_meth/blob/main/images/hist_epiblast.png) | ![ ](https://github.com/IlonaGA/hse_hw1_meth/blob/main/images/hist_ICM.png) | 
+| ![ ](https://github.com/IlonaGA/hse_hw1_meth/blob/main/images/hist_8cell.png) | ![ ](https://github.com/IlonaGA/hse_hw1_meth/blob/main/images/hist_epiblast.png) | ![ ](https://github.com/IlonaGA/hse_hw1_meth/blob/main/images/hist_ICM.png) |   
+
 Для образца Epiblast наблюдается наибольший уровень метилирования ДНК. Обратная ситуация для образца ICM (много 0). 8cell находится также метилирован, но заметно меньше чем Epiblast.   
 
 ### Уровень метилирования и покрытия для каждого образца:  
