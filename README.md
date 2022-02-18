@@ -68,4 +68,6 @@ fig.savefig('TYPE.png')
 **Покрытие:**  
 ![ ](https://github.com/IlonaGA/hse_hw1_meth/blob/main/images/image_coverage.png)
 
-**Вывод**: можем наблюдать различия в доле метилирования (волны деметилирования-метилирования) на разных стадиях развития эмбриона.
+**Вывод**: можем наблюдать различия в доле метилирования (волны деметилирования-метилирования) на разных стадиях развития эмбриона, что согласуется с картинкой и источником ниже.
+![ ](https://en.wikipedia.org/wiki/File:DNA_methylation_reprogramming.png)
+[Ссылка](https://en.wikipedia.org/wiki/DNA_methylation#During_embryonic_development)
