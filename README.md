@@ -52,8 +52,8 @@ Cводная таблица ридов, закартированных на у�
 
 ### Уровень метилирования и покрытия для каждого образца: 
 **Метилирование:**  
-[ ](https://github.com/IlonaGA/hse_hw1_meth/blob/main/images/image_methylation.png)
+![ ](https://github.com/IlonaGA/hse_hw1_meth/blob/main/images/image_methylation.png)
 **Покрытие:**  
-[ ](https://github.com/IlonaGA/hse_hw1_meth/blob/main/images/image_coverage.png)
+![ ](https://github.com/IlonaGA/hse_hw1_meth/blob/main/images/image_coverage.png)
 
 **Вывод**: можем наблюдать различия в доле метилирования (волны деметилирования-метилирования) на разных стадиях развития эмбриона.
