@@ -27,6 +27,8 @@ Cводная таблица ридов, закартированных на у�
 #### M-bias plot:
 
 **8cell:** 
+![ ](https://github.com/IlonaGA/hse_hw1_meth/blob/main/images/8cell1.png)
+![ ](https://github.com/IlonaGA/hse_hw1_meth/blob/main/images/8cell2.png)
 
 **epiblast:**  
 ![ ](https://github.com/IlonaGA/hse_hw1_meth/blob/main/images/epiblast1.png)
