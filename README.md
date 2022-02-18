@@ -65,7 +65,7 @@ fig.savefig('TYPE.png')
 ### Уровень метилирования и покрытия для каждого образца: 
 **Метилирование:**  
 ![ ](https://github.com/IlonaGA/hse_hw1_meth/blob/main/images/image_methylation.png)  
-Видно различие для различных тимов образцов.  
+Видно различие между образцами.  
 
 **Покрытие:**  
 ![ ](https://github.com/IlonaGA/hse_hw1_meth/blob/main/images/image_coverage.png)
